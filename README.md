@@ -1,9 +1,9 @@
 # Progracamaci-n_LLMS
 Primera fase de programacion LLMS
 
-Correo: Pedro.buelvas@udea.edu.co 
-
 Nombre: Pedro Luis Buelvas Caraballo
+
+Correo: Pedro.buelvas@udea.edu.co 
 
 Curso: Introducción a la IA
 
